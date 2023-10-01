@@ -1,1 +1,2 @@
 # Quiz-Game
+This is a quiz application that is buiilt using Python’s basic building blocks. This application is capable of asking a question, collecting an answer, and checking whether the answer is correct. It also has some exciting features like Hints and explanations to some answers to some of the questions. In my opinion it is very rxciting and a user friendly application. Feel free to contribute to this project in any way you can.
